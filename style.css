@@ -1,0 +1,16 @@
+
+p {
+    background-color: lightyellow;
+    
+    color: black;
+    
+    border-style:solid;
+    border-width:thin;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+        
